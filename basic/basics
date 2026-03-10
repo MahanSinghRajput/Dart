@@ -1,0 +1,12 @@
+Strongly typed language means that before compiling the language must know what type of variable is being declared.
+Dart is an OOP language.
+Mix of JAVA, JS, C#.
+Developed by Google in 2011.
+
+## Benifits of dart ->
+#Use of async and await for asynchronous programming.
+#Dart is one of very few languages (and perhaps the only "mainstream" language) that is well suited to being compiled both AOT(ahead-of-time) and JIT(just-in-time). Supporting both kinds of compilation provides significant advantages to Dart and (especially) Flutter(Hot Reload Feature).
+#JIT compilation is used during development, using a compiler that is especially fast. Then, when an app is ready for release, it is compiled AOT.
+#Extremely fast development cycles, and fast execution and startup times.
+#Dart can be compiled into JavaScript so it can be executed by browsers.
+#Flutter doesn't split layout between your program and an additional templating or layout language like JSX or XML, nor does it require separate visual layout tools.
