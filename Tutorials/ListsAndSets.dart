@@ -20,6 +20,11 @@ void main(){
   score.removeRange(0, 1); //removes range
 
   for(int scores in score){
+    //print("score $scores");
+  }
+
+  //for with condition check, no need for if inside the loop
+  for(int scores in score.where((s) => s > 4)){
     print("score $scores");
   }
 
